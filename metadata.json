@@ -1,0 +1,10 @@
+{
+  "name": "AEGIS — AI Emergency Information & Alert Assurance System",
+  "description": "AI-powered emergency information assurance platform verifying disaster alert completeness, consistency, freshness, provenance, multi-channel delivery, and accessible communication.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
